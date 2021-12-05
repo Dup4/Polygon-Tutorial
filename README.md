@@ -1,6 +1,6 @@
 # Polygon-Tutorial
 
-[CF出题人手册](https://docs.google.com/document/d/e/2PACX-1vRhazTXxSdj7JEIC7dp-nOWcUFiY8bXi9lLju-k6vVMKf4IiBmweJoOAMI-ZEZxatXF08I9wMOQpMqC/pub)
+[CF 出题人手册](https://docs.google.com/document/d/e/2PACX-1vRhazTXxSdj7JEIC7dp-nOWcUFiY8bXi9lLju-k6vVMKf4IiBmweJoOAMI-ZEZxatXF08I9wMOQpMqC/pub)
 
 ## statement
 
@@ -58,11 +58,6 @@
 
 ### 使用中文
 
-```latex
-\usepackage[UTF8]{ctex}
-\setlength{\parskip}{3pt plus1pt minus1pt} % 段落之间的竖直距离
-\renewcommand{\baselinestretch}{1.2}        % 定义行距
-\setlength{\abovedisplayskip}{2pt plus1pt minus1pt}     %公式前的距离
-\setlength{\belowdisplayskip}{6pt plus1pt minus1pt}     %公式后面的距离
-\setlength{\arraycolsep}{2pt}   %在一个array中列之间的空白长度, 因为原来的太宽了
-```
+![](./images/use-chinese.png)
+
+用 [statements.ftl](./template/statements.ftl) 进行替换。
