@@ -1,6 +1,7 @@
 # Statement
 
 - [olymp.sty](https://github.com/GassaFM/olymp.sty)
+- [Statements TeX manual](https://polygon.codeforces.com/docs/statements-tex-manual)
 
 ## Tex Syntax
 
